@@ -1,0 +1,2 @@
+# Eggplant_Grading
+The goal of this project is to grade eggplants automatically. Firstly, the eggplant images are preprocessed with median filtering and segmented with otsu global thresholding. GLCM technique is used to extract the size, shape and volume features from the segmented image. Finally, KNN Classifier is employed to classify the images according to healthy, partially defected, moderately defected and unhealthy.
