@@ -1,0 +1,4 @@
+frmMain = 50, 50, 1021, 423, , 30, 25, 1070, 633, C
+FastDrawing = 0, 0, 0, 0, C
+cCommonDialog = 0, 0, 0, 0, C
+modPublicVars = 0, 0, 0, 0, C
